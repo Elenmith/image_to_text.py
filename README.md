@@ -1,5 +1,3 @@
-# OCR Script - ReadMe
-
 ## Opis Projektu
 
 #### Ten skrypt wykorzystuje bibliotekę Tesseract OCR do konwersji tekstu z obrazów na format tekstowy. Umożliwia wczytanie obrazu, przetworzenie go do skali szarości, a następnie wyekstrahowanie tekstu, który zostaje zapisany w pliku tekstowym na dysku.
